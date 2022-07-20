@@ -1,0 +1,30 @@
+#upper-background {
+  background-image: url("../../assets/img/hector-j-rivas-1FxMET2U5dU-unsplash.jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+.mid-ad{
+  display: flex;
+  flex-direction: row;
+  justify-content: space-evenly;
+  margin-left: 150px;
+}
+.ed-head{
+  align-self: center;
+}
+.ed-class{
+  display: flex;
+  flex-direction: row;
+  justify-content: space-evenly;
+  align-items: center;
+  margin-left: 80px;
+}
+.clg{
+  display: flex;
+  flex-direction: column;
+}
+.info{
+  margin-top: 52px;
+  display: flex;
+  flex-direction: column;
+}
